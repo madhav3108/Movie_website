@@ -1,6 +1,142 @@
-# Getting Started with Create React App
+<!--                                MOVIE WEBSITE                                    -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Before Started with Movie application go through a video
+<!-- "https://drive.google.com/file/d/1d1i7IxwVsj3hLtqBDB_DhzzqJKhlBnJQ/view?usp=share_link" -->
+
+
+
+
+# PACKAGES USED IN THIS MOVIE WESITE
+
+#  1  <!--        Routing:          -->
+Routing is allows users to navigate between different pages or views without requiring a full page reload. With the help of Routing,we can navigate  various sections of the movie website, such as <!--home ,TV Shows , BollyWood Movies , Login,Logout page and many more.--> 
+
+We can access specific movie pages by clicking on links or using the browser's back and forward buttons and implement smooth and seamless navigation, providing a better user experience.
+
+# 2    <!--        Axios:           -->
+Axios enables communication with external APIs, such as The Movie Database (TMDB). You can use Axios to fetch movie information, retrieve images,  and other related data from the TMDB API. By making asynchronous HTTP requests with Axios, you can dynamically load movie details a
+
+# 3     <!--       React Icons:     -->
+Icons will enhance user experience of your movie website. Movie-themed icons into your components. For instance, you can use icons for play buttons, logout buttons and more. We can provide intuitive visual cues to users and make your movie website more engaging.
+
+# 4     <!--       React Redux:     -->
+
+# It is a State Management tool.
+With the help of Redux we manage the application data flow. As a movie website can have lots of activities and multiple components . React Redux helps centralize the state in a store. Redux makes it easier to maintain and debug the application while ensuring consistent and efficient.
+
+
+# 5     <!--       Firebase:         -->
+Firebase in a movie website used to handling user authentication and data storage. Like in our website we  can use Firebase Authentication to allow users to sign in and create accounts on your movie website. I use firebase in this application .
+<!-- 
+    src -> utils -> firebase-config.js
+        apiKey:ENTER_YOUR_API_KEY, 
+        authDomain:ENTER_YOUR_API_KEY,
+        projectId:ENTER_YOUR_API_KEY,
+        storageBucket:ENTER_YOUR_API_KEY, 
+        messagingSenderId:ENTER_YOUR_API_KEY, 
+        appId:ENTER_YOUR_API_KEY,
+        measurementId:ENTER_YOUR_API_KEY
+-->
+
+# 6     <!--       TMDB:            -->
+TMDB is data source for your movie website. It offers comprehensive movie information, including movie details, cast and crew data, ratings, reviews, and more. By utilizing the TMDB API, you can fetch movie data and display it on your website. This allows you to provide users with an extensive catalog of movies and explore movies easily. 
+ <!-- 
+    src -> utils ->contant.js 
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +203,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
